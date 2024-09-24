@@ -11,9 +11,13 @@
   "dependencies": {
     "@stripe/react-stripe-js": "^2.8.0",
     "@stripe/stripe-js": "^4.5.0",
+    "lucide-react": "^0.445.0",
     "next": "^14.2.13",
     "react": "^18",
-    "react-dom": "^18"
+    "react-country-region-selector": "^3.6.1",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-select": "^5.8.1"
   },
   "devDependencies": {
     "@types/node": "^20",
